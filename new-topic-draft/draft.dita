@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="draft">
+    <title>XML Refactoring</title>
+    <body>
+        <section id="section_ehm_dsc_wcc">
+            <title>Summary</title>
+            <p>The XML Refactoring tool in Oxygen XML Editor (available in the Tools menu) helps</p>
+            <p> manage the structure of XML documents by allowing users to perform various
+                structure</p>
+            <p> management tasks such as inserting, deleting, or renaming attributes in all
+                instances of a</p>
+            <p> particular element. The tool is presented as a wizard with multiple pages, including
+                options</p>
+            <p> to configure operation parameters and select the scope and filters for the
+                operation. Users</p>
+            <p> can preview the changes before applying them, but there is no automatic way to
+                revert the</p>
+            <p> operations once they are finished. Additionally, the tool cannot preserve CDATA
+                sections in</p>
+            <p> the XML documents.</p>
+        </section>
+        <section id="section_wd5_csc_wcc">
+            <title>Instructions</title>
+            <p>Add each image in the documentation and present the flow of the operation as
+                suggested by these images. Add them in the correct order of the steps. You should
+                document each UI element shown in the images in a fashion similar to how options are documented in the similar topics.</p>
+            <image href="img/xmlrefactoring_preview.png" id="image_nj5_hsc_wcc"/>
+            <image href="img/xmlrefactoring_step1.png" id="image_oj5_hsc_wcc"/>
+            <image href="img/xmlrefactoring_step2.png" id="image_pj5_hsc_wcc"/>
+            <p>For the previous image, make sure the document all the available options in the DITA definition list.</p>
+            <p>Also add an important note about the fact that the operation results can be previewed,
+                and add the following image as an example, with the caption "Isn't it cool?".</p>
+            <image href="img/xmlrefactoring_step3.png" id="image_qj5_hsc_wcc"/>
+        </section>
+        <p/>
+        <section id="section_tkx_gsc_wcc">
+            <title>draft-similar-topic</title>
+            <xref href="similar-converting-between-schema-languages.dita"/>
+        </section>
+    </body>
+</topic>
