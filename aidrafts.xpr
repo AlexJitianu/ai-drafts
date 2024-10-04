@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qaidrafts.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.oxygen.positron.plugin.actions.folder</String>
+                        <String>${pd}/positron-ai-actions</String>
+                    </entry>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.oxygen.positron.plugin.load.default.actions</String>
+                        <String>true</String>
+                    </entry>
+                    <entry>
+                        <String>Positron_enterprise_addon_preferences_engine_page</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>Positron_enterprise_addon_preferences_page</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="aidrafts.xpr">
+        <folder path="."/>
+    </projectTree>
+</project>

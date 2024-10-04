@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="troubleshooting">
+    <title>Troubleshooting</title>
+    <body>
+        <p>A list of possible causes and solutions about why the motor is not starting. Start with a
+            summary of the steps needed to safely work on the motor. Start with a short description
+            about how the motor works.</p>
+        <section id="section_wwf_cps_bcc">
+            <title>No context</title>
+            <p><image href="images/no-context.png" id="image_yzh_dps_bcc"/></p>
+        </section>
+        <section id="section_u4n_dps_bcc">
+            <title>With context</title>
+            <p><image href="images/with-context.png" id="image_n2s_hps_bcc"/></p>
+        </section>
+    </body>
+</topic>

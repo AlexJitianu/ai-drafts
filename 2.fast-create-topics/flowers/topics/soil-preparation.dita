@@ -1,0 +1,11 @@
+<task id="soil-preparation">
+<title>Soil Preparation</title>
+<body>
+<taskbody>
+<steps>
+<step><cmd>Test soil pH and nutrient levels.</cmd></step>
+<step><cmd>Amend soil with compost and fertilizers as needed.</cmd></step>
+</steps>
+</taskbody>
+</body>
+</task>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\Git-workspace\ai-function-experiments\car\temp\pdf-css-html5?><?workdir-uri file:/D:/Git-workspace/ai-function-experiments/car/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="electric_motor_safety_steps" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="topic:1;2:41" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="title:1;3:12">Steps to Safely Disconnect and Handle the Electric Components</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="shortdesc:1;4:16">This topic outlines the critical steps necessary to safely disconnect and handle the
+        electric components of the motor.</shortdesc>
+
+    <body class="- topic/body " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="body:1;7:11">
+        <section class="- topic/section " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="section:1;8:18">
+            <title class="- topic/title " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="title:2;9:20">Introduction</title>
+            <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="p:1;10:16">Working with electric motors requires caution and adherence to safety protocols to
+                prevent accidents and ensure proper maintenance. Follow these steps carefully to
+                disconnect and handle electric components safely.</p>
+        </section>
+
+        <section class="- topic/section " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="section:2;15:18">
+            <title class="- topic/title " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="title:3;16:20">Safety Steps</title>
+            <ol class="- topic/ol " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="ol:1;17:17">
+                <li class="- topic/li " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="li:1;18:21">
+                    <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="p:2;19:24"><b class="+ topic/ph hi-d/b " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="b:1;19:27">Power Down:</b> Ensure the motor is completely powered down. Turn off the
+                        main power switch and disconnect the motor from any power sources.</p>
+                </li>
+                <li class="- topic/li " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="li:2;22:21">
+                    <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="p:3;23:24"><b class="+ topic/ph hi-d/b " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="b:2;23:27">Lockout/Tagout:</b> Implement the lockout/tagout procedure to ensure that
+                        the motor cannot be accidentally powered on while maintenance is being
+                        performed.</p>
+                </li>
+                <li class="- topic/li " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="li:3;27:21">
+                    <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="p:4;28:24"><b class="+ topic/ph hi-d/b " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="b:3;28:27">Verify Absence of Voltage:</b> Use a voltage tester to confirm that there
+                        is no electrical energy in the motor or its components</p>
+                </li>
+                <li class="- topic/li " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="li:4;31:21">
+                    <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="p:5;32:24"><b class="+ topic/ph hi-d/b " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="b:4;32:27">Discharge Capacitors:</b> Identify and discharge all capacitors within the
+                        system to eliminate the risk of electric shock from stored energy.</p>
+                </li>
+                <li class="- topic/li " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="li:5;35:21">
+                    <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="p:6;36:24"><b class="+ topic/ph hi-d/b " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="b:5;36:27">Use Insulated Tools:</b> Always use tools with insulated handles rated for
+                        the appropriate voltage when working with electrical components.</p>
+                </li>
+                <li class="- topic/li " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="li:6;39:21">
+                    <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="p:7;40:24"><b class="+ topic/ph hi-d/b " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="b:6;40:27">Wear Protective Gear:</b> Wear insulated gloves and safety goggles to
+                        protect yourself from potential electrical hazards.</p>
+                </li>
+                <li class="- topic/li " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="li:7;43:21">
+                    <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="p:8;44:24"><b class="+ topic/ph hi-d/b " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="b:7;44:27">Disconnect Wiring:</b> Carefully disconnect all wiring from the motor.
+                        Label the wires if necessary to ensure correct reassembly.</p>
+                </li>
+                <li class="- topic/li " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="li:8;47:21">
+                    <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="p:9;48:24"><b class="+ topic/ph hi-d/b " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="b:8;48:27">Store Components Safely:</b> Place all disconnected components in a safe,
+                        dry location to avoid damage and contamination.</p>
+                </li>
+            </ol>
+        </section>
+
+        <section class="- topic/section " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="section:3;54:18">
+            <title class="- topic/title " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="title:4;55:20">Conclusion</title>
+            <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/electric_motor_safety_steps.dita" xtrc="p:10;56:16">Following these safety steps will help ensure that maintenance on electric motors is
+                conducted safely and efficiently. Always adhere to manufacturer guidelines and local
+                safety regulations.</p>
+        </section>
+    </body>
+</topic>

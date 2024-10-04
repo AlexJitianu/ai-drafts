@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="introduction">
+    <title>Introduction</title>
+    <shortdesc>Welcome to the Bolbo electric-plugin car manual. This guide provides essential
+        information on the car's dual motor system and related maintenance.</shortdesc>
+    <body>
+        <p>The Bolbo is equipped with a dual motor system that combines the efficiency of an
+            electric motor with the reliability of a combustion (termic) engine. This unique
+            configuration ensures optimal performance, fuel efficiency, and lower emissions.</p>
+        <p>This manual is designed to help you understand the key features of both the electric and
+            termic motors, as well as their necessary maintenance procedures. Always follow the
+            outlined safety procedures to ensure safe and efficient maintenance.</p>
+    </body>
+</topic>

@@ -1,0 +1,33 @@
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Motor Maintenance Guide</title>
+    
+    <!-- Introduction -->
+    <topicref href="introduction.dita" navtitle="Introduction"/>
+    
+    <!-- Electric Motor -->
+    <topichead navtitle="Electric Motor">
+        <topicref href="electric_motor_overview.dita" navtitle="Overview of the Electric Motor"/>
+        
+        <topicref href="electric_motor_safety_procedures.dita" navtitle="Safety Procedures for Electric Motor Maintenance">
+            <topicref href="electric_motor_safety_steps.dita" navtitle="Steps to safely disconnect and handle the electric components"/>
+        </topicref>
+        <topicref href="electric_motor_maintenance.dita" navtitle="Electric Motor Maintenance">
+                <topicref href="electric_motor_battery_health.dita" navtitle="Battery Health and Maintenance"/>
+        </topicref>
+    </topichead>
+    
+    <!-- Termic (Combustion) Motor -->
+    <topichead navtitle="Termic (Combustion) Motor">
+        <topicref href="termic_motor_overview.dita" navtitle="Overview of the Termic Motor"/>
+        
+        <topicref href="termic_motor_safety_procedures.dita" navtitle="Safety Procedures for Termic Motor Maintenance">
+            <topicref href="termic_motor_safety_steps.dita" navtitle="Steps to ensure the engine and components are safe to work on"/>
+        </topicref>
+        <topicref href="termic_motor_maintenance.dita" navtitle="Termic Motor Maintenance">
+            <topicref href="termic_motor_oil_filter_change.dita" navtitle="Engine Oil and Filter Change"/>
+        </topicref>
+        <topicref href="troubleshooting.dita"/>
+    </topichead>
+    
+</map>

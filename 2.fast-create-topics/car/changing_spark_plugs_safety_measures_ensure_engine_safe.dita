@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="termic-motor-safety">
+    <title>Steps to Ensure the Engine and Components are Safe to Work On</title>
+    <shortdesc>Follow these steps to ensure the termic (combustion) engine and its components are
+        safe to work on before performing any maintenance.</shortdesc>
+    <body>
+        <ol>
+            <li>
+                <p><b>Turn Off the Engine:</b> Make sure the engine is completely turned off and the
+                    key is removed from the ignition to prevent accidental starting.</p>
+            </li>
+            <li>
+                <p><b>Allow Engine to Cool:</b> Wait for the engine to cool down to avoid burns or
+                    other injuries. This usually takes about 30 minutes after the engine has been
+                    running.</p>
+            </li>
+            <li>
+                <p><b>Disconnect the Battery:</b> Disconnect the negative terminal of the car
+                    battery to cut off the power supply, reducing the risk of electrical shocks.</p>
+            </li>
+            <li>
+                <p><b>Use Personal Protective Equipment (PPE):</b> Wear appropriate PPE such as
+                    gloves, safety glasses, and long sleeves to protect yourself from potential
+                    hazards.</p>
+            </li>
+            <li>
+                <p><b>Work in a Well-Ventilated Area:</b> Ensure you are working in an area with
+                    good ventilation to avoid inhaling any harmful fumes or gases.</p>
+            </li>
+            <li>
+                <p><b>Secure the Vehicle:</b> Use wheel chocks to prevent the car from moving.
+                    Engage the parking brake and ensure the vehicle is on a flat, stable
+                    surface.</p>
+            </li>
+            <li>
+                <p><b>Refer to the Manual:</b> Always consult the vehicle's service manual for
+                    specific safety instructions related to the termic motor.</p>
+            </li>
+        </ol>
+    </body>
+</topic>

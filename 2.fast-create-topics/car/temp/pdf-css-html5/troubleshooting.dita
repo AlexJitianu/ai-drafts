@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\Git-workspace\ai-function-experiments\car\temp\pdf-css-html5?><?workdir-uri file:/D:/Git-workspace/ai-function-experiments/car/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="troubleshooting" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/troubleshooting.dita" xtrc="topic:1;3:29" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/troubleshooting.dita" xtrc="title:1;4:12">Troubleshooting</title>
+    <body class="- topic/body " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/troubleshooting.dita" xtrc="body:1;5:11">
+        <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/troubleshooting.dita" xtrc="p:1;6:12">A list of possible causes and solutions about why the motor is not starting. Start with a
+            summary of the steps needed to safely work on the motor. Start with a short description
+            about how the motor works.</p>
+        <section id="section_wwf_cps_bcc" class="- topic/section " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/troubleshooting.dita" xtrc="section:1;9:43">
+            <title class="- topic/title " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/troubleshooting.dita" xtrc="title:2;10:20">No context</title>
+            <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/troubleshooting.dita" xtrc="p:2;11:16"><image href="images/no-context.png" id="image_yzh_dps_bcc" placement="inline" class="- topic/image " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/troubleshooting.dita" xtrc="image:1;11:76"/></p>
+        </section>
+        <section id="section_u4n_dps_bcc" class="- topic/section " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/troubleshooting.dita" xtrc="section:2;13:43">
+            <title class="- topic/title " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/troubleshooting.dita" xtrc="title:3;14:20">With context</title>
+            <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/troubleshooting.dita" xtrc="p:3;15:16"><image href="images/with-context.png" id="image_n2s_hps_bcc" placement="inline" class="- topic/image " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/troubleshooting.dita" xtrc="image:2;15:78"/></p>
+        </section>
+    </body>
+</topic>

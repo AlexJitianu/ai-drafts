@@ -1,0 +1,61 @@
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="electric_motor_safety_steps">
+    <title>Steps to Safely Disconnect and Handle the Electric Components</title>
+    <shortdesc>This topic outlines the critical steps necessary to safely disconnect and handle the
+        electric components of the motor.</shortdesc>
+
+    <body>
+        <section>
+            <title>Introduction</title>
+            <p>Working with electric motors requires caution and adherence to safety protocols to
+                prevent accidents and ensure proper maintenance. Follow these steps carefully to
+                disconnect and handle electric components safely.</p>
+        </section>
+
+        <section>
+            <title>Safety Steps</title>
+            <ol>
+                <li>
+                    <p><b>Power Down:</b> Ensure the motor is completely powered down. Turn off the
+                        main power switch and disconnect the motor from any power sources.</p>
+                </li>
+                <li>
+                    <p><b>Lockout/Tagout:</b> Implement the lockout/tagout procedure to ensure that
+                        the motor cannot be accidentally powered on while maintenance is being
+                        performed.</p>
+                </li>
+                <li>
+                    <p><b>Verify Absence of Voltage:</b> Use a voltage tester to confirm that there
+                        is no electrical energy in the motor or its components</p>
+                </li>
+                <li>
+                    <p><b>Discharge Capacitors:</b> Identify and discharge all capacitors within the
+                        system to eliminate the risk of electric shock from stored energy.</p>
+                </li>
+                <li>
+                    <p><b>Use Insulated Tools:</b> Always use tools with insulated handles rated for
+                        the appropriate voltage when working with electrical components.</p>
+                </li>
+                <li>
+                    <p><b>Wear Protective Gear:</b> Wear insulated gloves and safety goggles to
+                        protect yourself from potential electrical hazards.</p>
+                </li>
+                <li>
+                    <p><b>Disconnect Wiring:</b> Carefully disconnect all wiring from the motor.
+                        Label the wires if necessary to ensure correct reassembly.</p>
+                </li>
+                <li>
+                    <p><b>Store Components Safely:</b> Place all disconnected components in a safe,
+                        dry location to avoid damage and contamination.</p>
+                </li>
+            </ol>
+        </section>
+
+        <section>
+            <title>Conclusion</title>
+            <p>Following these safety steps will help ensure that maintenance on electric motors is
+                conducted safely and efficiently. Always adhere to manufacturer guidelines and local
+                safety regulations.</p>
+        </section>
+    </body>
+</topic>

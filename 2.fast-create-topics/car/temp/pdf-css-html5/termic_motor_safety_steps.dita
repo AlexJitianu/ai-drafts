@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\Git-workspace\ai-function-experiments\car\temp\pdf-css-html5?><?workdir-uri file:/D:/Git-workspace/ai-function-experiments/car/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="termic-motor-safety" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="topic:1;3:33" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="title:1;4:12">Steps to Ensure the Engine and Components are Safe to Work On</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="shortdesc:1;5:16">Follow these steps to ensure the termic (combustion) engine and its components are
+        safe to work on before performing any maintenance.</shortdesc>
+    <body class="- topic/body " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="body:1;7:11">
+        <ol class="- topic/ol " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="ol:1;8:13">
+            <li class="- topic/li " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="li:1;9:17">
+                <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="p:1;10:20"><b class="+ topic/ph hi-d/b " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="b:1;10:23">Turn Off the Engine:</b> Make sure the engine is completely turned off and the
+                    key is removed from the ignition to prevent accidental starting.</p>
+            </li>
+            <li class="- topic/li " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="li:2;13:17">
+                <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="p:2;14:20"><b class="+ topic/ph hi-d/b " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="b:2;14:23">Allow Engine to Cool:</b> Wait for the engine to cool down to avoid burns or
+                    other injuries. This usually takes about 30 minutes after the engine has been
+                    running.</p>
+            </li>
+            <li class="- topic/li " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="li:3;18:17">
+                <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="p:3;19:20"><b class="+ topic/ph hi-d/b " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="b:3;19:23">Disconnect the Battery:</b> Disconnect the negative terminal of the car
+                    battery to cut off the power supply, reducing the risk of electrical shocks.</p>
+            </li>
+            <li class="- topic/li " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="li:4;22:17">
+                <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="p:4;23:20"><b class="+ topic/ph hi-d/b " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="b:4;23:23">Use Personal Protective Equipment (PPE):</b> Wear appropriate PPE such as
+                    gloves, safety glasses, and long sleeves to protect yourself from potential
+                    hazards.</p>
+            </li>
+            <li class="- topic/li " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="li:5;27:17">
+                <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="p:5;28:20"><b class="+ topic/ph hi-d/b " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="b:5;28:23">Work in a Well-Ventilated Area:</b> Ensure you are working in an area with
+                    good ventilation to avoid inhaling any harmful fumes or gases.</p>
+            </li>
+            <li class="- topic/li " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="li:6;31:17">
+                <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="p:6;32:20"><b class="+ topic/ph hi-d/b " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="b:6;32:23">Secure the Vehicle:</b> Use wheel chocks to prevent the car from moving.
+                    Engage the parking brake and ensure the vehicle is on a flat, stable
+                    surface.</p>
+            </li>
+            <li class="- topic/li " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="li:7;36:17">
+                <p class="- topic/p " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="p:7;37:20"><b class="+ topic/ph hi-d/b " xtrf="file:/D:/Git-workspace/ai-function-experiments/car/termic_motor_safety_steps.dita" xtrc="b:7;37:23">Refer to the Manual:</b> Always consult the vehicle's service manual for
+                    specific safety instructions related to the termic motor.</p>
+            </li>
+        </ol>
+    </body>
+</topic>

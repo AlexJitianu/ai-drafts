@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="overview-termic-motor">
+    <title>Overview of the Termic Motor</title>
+    <shortdesc>This section provides an overview of the termic (combustion) motor used in the Bolbo
+        car, detailing its functionality and benefits.</shortdesc>
+    <body>
+        <p>The Bolbo's termic motor, also known as the combustion engine, is designed to provide
+            robust and reliable performance. This engine works by burning fuel (such as gasoline) to
+            create a controlled explosion, which generates mechanical energy to propel the vehicle.
+            The combustion engine is particularly useful for extended range and fast refueling,
+            providing flexibility for long-distance travel.</p>
+        <p>The termic motor in the Bolbo is engineered with advanced technologies to optimize fuel
+            efficiency and minimize emissions. It operates in conjunction with the electric motor,
+            allowing the vehicle to switch seamlessly between power sources based on driving
+            conditions and battery charge levels.</p>
+    </body>
+</topic>

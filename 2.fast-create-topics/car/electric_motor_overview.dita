@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="overview-electric-motor">
+    <title>Overview of the Electric Motor</title>
+    <shortdesc>This section provides an overview of the electric motor used in the Bolbo car,
+        detailing its functionality and benefits.</shortdesc>
+    <body>
+        <p>The Bolbo's electric motor is designed to offer a powerful and efficient driving
+            experience. This motor converts electrical energy stored in high-capacity batteries into
+            mechanical energy, which propels the vehicle. The electric motor operates silently and
+            delivers instant torque, ensuring smooth acceleration and high performance.</p>
+        <p>One of the key advantages of the electric motor is its eco-friendliness, as it produces
+            zero emissions during operation. Additionally, the electric motor requires less
+            maintenance compared to traditional combustion engines, due to fewer moving parts.</p>
+    </body>
+</topic>

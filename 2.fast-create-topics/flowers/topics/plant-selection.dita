@@ -1,0 +1,11 @@
+<task id="plant-selection">
+<title>Plant Selection</title>
+<body>
+<taskbody>
+<steps>
+<step><cmd>Choose plants suitable for spring planting.</cmd></step>
+<step><cmd>Consider flower types and their specific needs.</cmd></step>
+</steps>
+</taskbody>
+</body>
+</task>
