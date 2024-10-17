@@ -1,13 +1,13 @@
 {
     "id": "expand.topic.draft",
     "title": "Expand Draft",
-    "categoryId": "1.Experiments",
+    "categoryId": "Intelligent Agentsx",
     "type": "update-entire-document-based-on-images",
-    "model": "gpt-4o",
+    "framework": "*DITA*",
     "additional_info": {"file_extension": "dita"},
     "input-type": "markup",
     "description": "Generate a documentation draft based on an topic containing data such as a draft summary, user instructions, images, etc.",
-    "context": "#########\n\n# CONTEXT #\n${contextInfo}\n${draft-context}\n\n#########\n\n# OBJECTIVE #\nYour task is to generate a DITA XML documentation topic.\n\nIn the first user message you will find the everything the writer have put together to help with the draft. First, there is a Summary section that you must use as a starting point for the documentation topic that you need to generate. Second, there is an Instructions section as well as some images. The structure of documents from draft-similar-topic section should serve as inspiration when generating structure of the draft, what DITA markup to use, how to doument the elements from the images. Read them using the tools functions.  \nAlong with the instructions from the user, you must also consider the following default instructions when generating the documentation draft:\n- ignore structure and section titles in the user message, only the content is important\n- !Important! The simliar topics paths are relative ones. To compute their absolute path, which is needed by the get_content_for_document_url function, Create an absolute path from the relative one using as base the get-current-editor-file-location\n- !Important! Drop the structure from what you get from the user. Keep only the content\n- !Important! The structure from the first user message is not important, the summary, isntructions are there to help you generate the topic. The contnet is important. You should restructure as you consider fit and as seen in  draft-similar-topic \n- The DITA topic must contain the XML declaration and the DOCTYPE declaration.\n- The id attribute on the root element must contain a value that starts with a letter.\n- !important! If any images were provided, you must take them into account when documenting: add these images in the documentation topic and document each component shown in the images separately, using a markup as in the similar topic.\nIf the instructions provided by the user conflict with these default ones, the instructions from the user must take precedence.\n#########\n\n# STYLE #\nWrite in an informative and instructional style, resembling a technical writer. Ensure clarity and coherence.\n\n#########\n\n\nRespond with just the DITA topic, nothing more. Do not add any details or explanations. Do not add Markdown code-block markers.\n\n#########",
+    "context": "\n# CONTEXT #\n${contextInfo}\n${draft-context}\n\n#########\n\n# OBJECTIVE #\nYour task is to expand a DITA XML documentation topic draft that contains rough content and images. In the first user message you will find the DITA topic draft to expand.\n\n\n# Steps:\n1. **Analyze the related topics** The topics from the 'related-links' topics, area should serve as inspiration when expanding the draft, what DITA markup to use, how to document the elements from the images. For each related link topic:\n  - !Important! Compute their absolute URL from the relative one being present in the document by calling 'get_current_editor_file_location' and using it as base. \n  - Read each topic using 'get_content_for_document_url' \n  - Tell me how images are documented, what DITA elements, how flows are structured.\n\n2. **Analyze Images** !important! If any images were provided document each UI element shown in the images separately, using markup as decided at step ** Decide the output structure: **. Present the flow of the operation as suggested by these images. Document each UI element shown in the images in a fashion similar to how options are documented in the related topics, as observed at step ** Decide the output structure: **.\n\n3. **Draft the XML**\n   - The DITA topic must contain the XML declaration and the DOCTYPE declaration. Use the same DOCTYPE as in the user message or related ones as the input topic might have been a DITA specialization.\n   - Ensure the root element includes a valid id attribute. The id attribute on the root element must contain a value that starts with a letter.\n   - The input DITA topic and related ones might be a DITA specialization so prefer using the elements from within.\n\n# Important\n- each ui element from images must be documented\n-  document the ui elements in the images using a similar structure and flow as in the related topics\n- 'related-links' topics, area should serve as inspiration when expanding the draft\n- !Important! Do not generate <filepath> elements. If they are present, replace them with <codeph>\n",
     "expand-params": [
         {
             "name": "contextInfo",
@@ -19,10 +19,9 @@
         {"name": "draft-similar-topic"}
     ],
     "parameters": {
-        "engine": {"name": "gpt-4o"},
+        "engine": {"name": "gpt-4o-2024-08-06"},
         "function_refs": [
-            {"ref": "get_current_document_marked_up_content"},
-            {"ref": "get-current-editor-file-location"},
+            {"ref": "get_current_editor_file_location"},
             {"ref": "get_content_for_document_url"}
         ]
     }
