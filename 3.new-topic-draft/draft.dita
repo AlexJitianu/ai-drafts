@@ -34,9 +34,8 @@
             <image href="img/xmlrefactoring_step3.png" id="image_qj5_hsc_wcc"/>
         </section>
         <p/>
-        <section id="section_tkx_gsc_wcc">
-            <title>draft-similar-topic</title>
-            <xref href="similar-converting-between-schema-languages.dita"/>
-        </section>
     </body>
+    <related-links>
+        <link href="similar-converting-between-schema-languages.dita"/>
+    </related-links>
 </topic>
