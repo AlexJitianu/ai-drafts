@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="https://www.dita-ot.org/project">
+  <context name="Flowers" id="ug_flowers">
+    <input href="../1.split-topic/gardening.ditamap"/>
+    
+  </context>
+  
+  
+</project>
