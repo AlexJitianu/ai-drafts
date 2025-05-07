@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="bolds">
+    <title>Adding bold </title>
+    <body>
+        <p/>
+        <dl id="dl_ck1_3pq_ffc">
+            
+                <dt>Apple</dt>
+                <dd>A sweet, crunchy fruit that comes in various colors including red, green, and
+                    yellow.</dd>
+            <dlentry>
+                <dt>Banana</dt>
+                <dd>A soft, creamy fruit that is high in potassium and comes in a yellow peel.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Orange</dt>
+                <dd>A juicy citrus fruit known for its high vitamin C content and bright orange
+                    color.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Strawberry</dt>
+                <dd>A small, red fruit with a juicy texture and sweet flavor, often used in
+                    desserts.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Grape</dt>
+                <dd>A small, round fruit that comes in clusters and can be red, green, or
+                    purple.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Pineapple</dt>
+                <dd>A tropical fruit with a spiky exterior and sweet, juicy interior.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Mango</dt>
+                <dd>A tropical stone fruit with a sweet, juicy flesh and a large pit in the
+                    center.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Blueberry</dt>
+                <dd>A small, round, blue fruit that is sweet and often used in baking.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Watermelon</dt>
+                <dd>A large, green fruit with a sweet, juicy red interior and black seeds.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Kiwi</dt>
+                <dd>A small, brown fruit with a fuzzy skin and bright green, tangy flesh
+                    inside.</dd>
+            </dlentry>
+        </dl>
+        
+     <section>
+         <title>Ids</title>
+         <p id="a"></p>
+         <p id="a"></p>
+         <p id="b"></p>  
+     </section>   
+        
+    </body>
+</topic>
